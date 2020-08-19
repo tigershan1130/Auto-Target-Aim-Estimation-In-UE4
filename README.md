@@ -2,8 +2,8 @@
 Using Kalman Filter/Least Square to Estimate Target to aim ahead.
 
 The plugin includes:
-- Perlin Noise added on real position to Fake Measurement Poistion, you can adjust frequence to slow down the offset.
-- KalmanFilter and Least Sqaure filter algorithm to esimate target position ahead based on Fake Measurement Position.
+- Perlin Noise added on real position to Fake Measurement Position, you can adjust frequency to slow down the offset.
+- KalmanFilter and Least Square Regression algorithm to esimate target position ahead based on Fake Measurement Position.
 
 Measurement-Position: Red Point
 Kalman Filter: Blue Point
