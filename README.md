@@ -12,4 +12,4 @@ Least Square Estimation: Green Point
 ![alt text](https://github.com/tigershan1130/Auto-Target-Aim-Estimation-In-UE4/blob/master/ScreenShot01.jpg)
 
 
-Warning: If you ran into turret not rotate properly, please adjust the Up Vector.
+Warning: If you ran into turret not rotate properly, please adjust the Up Vector in bp.
