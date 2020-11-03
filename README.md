@@ -7,7 +7,7 @@ The plugin includes:
 
 Measurement-Position: Red Point
 Kalman Filter: Blue Point
-Least Square Estimation: Green Point
+Least Square Estimation: Green Point(currently linear acceleration, should consider acceleration as part of LSE).
 
 ![alt text](https://github.com/tigershan1130/Auto-Target-Aim-Estimation-In-UE4/blob/master/ScreenShot01.jpg)
 
