@@ -6,7 +6,9 @@ The plugin includes:
 - KalmanFilter and Least Square Regression algorithm to esimate target position ahead based on Fake Measurement Position.
 
 Measurement-Position: Red Point
+
 Kalman Filter: Blue Point
+
 Least Square Estimation: Green Point(currently linear acceleration, should consider acceleration as part of LSE).
 
 ![alt text](https://github.com/tigershan1130/Auto-Target-Aim-Estimation-In-UE4/blob/master/ScreenShot01.jpg)
